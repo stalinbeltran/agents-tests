@@ -1,0 +1,3 @@
+# Sólo se necesita para el MODO REAL (llamadas a la API de Claude).
+# El MODO DEMO funciona con la biblioteca estándar de Python, sin instalar nada.
+anthropic>=0.69
